@@ -60,12 +60,6 @@ ul {
     list-style: none;
 }
 
-ul.icons {
-    list-style: none;
-    width:5%;
-
-}
-
 a,button {
     transition: opacity 400ms ease-in-out
 }
