@@ -57,7 +57,12 @@ button {
 }
 
 ul {
-    list-style: none
+    list-style: none;
+}
+
+ul.icons {
+    list-style: none;
+    width:5%;
 
 }
 
@@ -68,4 +73,3 @@ a,button {
 a:hover,button:hover {
     opacity: .5
 }
-
