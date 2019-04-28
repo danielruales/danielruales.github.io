@@ -64,6 +64,6 @@ a,button,.a_override {
     transition: opacity 400ms ease-in-out
 }
 
-a:hover,button:hover,.a_override {
+a:hover,button:hover,.a_override:hover {
     opacity: .5
 }
