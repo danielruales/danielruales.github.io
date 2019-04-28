@@ -62,7 +62,6 @@ ul {
 
 a,button,.a_override {
     transition: opacity 400ms ease-in-out;
-    color: #fff
 }
 
 a:hover,button:hover,.a_override:hover {
