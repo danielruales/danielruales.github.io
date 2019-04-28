@@ -60,10 +60,10 @@ ul {
     list-style: none;
 }
 
-a,button {
+a,button,.a_override {
     transition: opacity 400ms ease-in-out
 }
 
-a:hover,button:hover {
+a:hover,button:hover,.a_override {
     opacity: .5
 }
